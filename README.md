@@ -1,11 +1,9 @@
 # 🚀 Bellman-Ford Shortest Path
 
 This Python script uses the Bellman-Ford algorithm to find the shortest path in a weighted directed graph. It features an interactive menu and colorful output.
-
-![image](https://github.com/Gwala-1413/Shortest-path-using-Bellman-Ford-algorithm/assets/115860146/1b0c4e7d-1fba-46fe-8203-91bb5f5d2175) 
-![image](https://github.com/Gwala-1413/Shortest-path-using-Bellman-Ford-algorithm/assets/115860146/98b34321-0baa-4b58-8fe2-bf205bb58f76)
-
-
+| Image 1 | Image 2 |
+|---|---|
+|![image](https://github.com/Gwala-1413/Shortest-path-using-Bellman-Ford-algorithm/assets/115860146/1b0c4e7d-1fba-46fe-8203-91bb5f5d2175) |![image](https://github.com/Gwala-1413/Shortest-path-using-Bellman-Ford-algorithm/assets/115860146/98b34321-0baa-4b58-8fe2-bf205bb58f76)|
 ## 🌟 Features
 - **Interactive Menu:** Choose options to find the shortest path or exit.
 - **Graph Visualization:** Display shortest paths with vertices and distances.
